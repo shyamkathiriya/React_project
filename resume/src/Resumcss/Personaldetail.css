@@ -1,0 +1,46 @@
+.error {
+    color: red;
+}
+
+.Prson {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: darkgrey;
+    border:  3px solid black;
+    border-radius: 5px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"],
+textarea, .CMonth {
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.Prson-from {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    padding: 8px 8px;
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 84.5%;
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 37px;
+}
+
